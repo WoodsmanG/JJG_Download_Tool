@@ -2,6 +2,8 @@
 
 国家计量技术规范全文公开系统下载工具。
 
+原项目：[AthenaCN/JJG_Download_Tool](https://github.com/AthenaCN/JJG_Download_Tool)
+
 原版脚本使用的旧详情页网址已经被新格式替代，且在线预览页的令牌变量也已发生变化。本版兼容：
 
 - 当前详情页：`https://jjg.spc.org.cn/resmea/standard/detail.html?standno=JJF+1070-2023`
